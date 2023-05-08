@@ -42,7 +42,7 @@ st.markdown(
         - Delivery time by city and traffic.
 
     - Observations:
-        - There are filter options in three options above, like date interval, traffic conditions and city type to select. 
+        - There are filter options in three views above, like date interval, traffic conditions and city type to select. 
     ### Contato:
     """
 )
